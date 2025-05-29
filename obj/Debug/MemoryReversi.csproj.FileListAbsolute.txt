@@ -1,0 +1,10 @@
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\bin\Debug\MemoryReversi.exe.config
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\bin\Debug\MemoryReversi.exe
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\bin\Debug\MemoryReversi.pdb
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\obj\Debug\MemoryReversi.csproj.AssemblyReference.cache
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\obj\Debug\MemoryReversi.Properties.Resources.resources
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\obj\Debug\MemoryReversi.csproj.GenerateResource.cache
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\obj\Debug\MemoryReversi.csproj.CoreCompileInputs.cache
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\obj\Debug\MemoryReversi.exe
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\obj\Debug\MemoryReversi.pdb
+C:\Users\suzur\source\MemoryReversi\MemoryReversi\obj\Debug\MemoryReversi.exe.config

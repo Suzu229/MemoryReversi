@@ -15,6 +15,12 @@ namespace MemoryReversi
         public Form1()
         {
             InitializeComponent();
+
+            var board = new ReversiBoardControl();
+            board.Location = new Point(10, 10);
+            this.Controls.Add(board);
+
+            this.ClientSize = board.Size;
         }
     }
 }
